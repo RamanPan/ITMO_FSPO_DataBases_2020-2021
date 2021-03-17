@@ -25,7 +25,7 @@
 |:-------------- |:-----------    |
 | Практ 2.1      | [1](https://github.com/TonikX/ITMO_FSPO_DataBases_2020-2021/pull/23/commits/589fbd2c0bbe74f98d04c1472b25c3230c65b6e7)|
 | Практ 2.2      | [2](https://github.com/TonikX/ITMO_FSPO_DataBases_2020-2021/pull/23/commits/b2b18bee7c9a4d628d76a2bee449a2e40b9de1d8)|
-| Лабораторная   | [3](https://github.com/TonikX/ITMO_FSPO_DataBases_2020-2021/pull/23/commits/50cff5cf8661ba343b5259b6e336b6d5c0f0ba4c)| 
+| Лабораторная   | [3](https://ramanpan.github.io/ForLabs/)| 
 
 ## Лабораторная работа №4
 
